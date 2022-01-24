@@ -12,6 +12,11 @@ Represented by:
 Dr. Hannes Junginger-Gestrich
 ```
 
+## Download
+[English Version](https://github.com/carbonfuture/PressKit/blob/main/Carbonfuture_PressKit_EN.zip?raw=true)
+
+[German Version](https://github.com/carbonfuture/PressKit/blob/main/Carbonfuture_PressKit_DE.zip?raw=true)
+
 ## Contact
 ```
 Phone: +49 761 458 790 91
