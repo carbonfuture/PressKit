@@ -13,9 +13,7 @@ Dr. Hannes Junginger-Gestrich
 ```
 
 ## Download
-[English Version](https://github.com/carbonfuture/PressKit/blob/main/Carbonfuture_PressKit_EN.zip?raw=true)
-
-[German Version](https://github.com/carbonfuture/PressKit/blob/main/Carbonfuture_PressKit_DE.zip?raw=true)
+[Dowload the presskit zip](https://github.com/carbonfuture/PressKit/archive/refs/heads/main.zip)
 
 ## Contact
 ```
